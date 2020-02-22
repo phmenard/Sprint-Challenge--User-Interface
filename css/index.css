@@ -222,10 +222,12 @@ p {
     justify-content: center;
 }
 
+
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
     justify-content: space-around;
+    margin-bottom: 3%;
 }
 
 .bottom-content .text-container {
@@ -352,6 +354,7 @@ button {
 
 footer {
     margin-bottom: 2%;
+    margin-top: 2%;
 }
 
 .box {
